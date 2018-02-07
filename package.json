@@ -1,14 +1,20 @@
 {
   "name": "http-code",
   "version": "1.0.0",
-  "description": "",
+  "description": "A super simple CLI to look up the meaning of http status codes.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    
   },
   "author": "Hendrik Wallbaum <mail@hendrikwallbaum.de>",
   "dependencies": {
     "commander": "^2.14.1"
   },
-  "bin": "index.js"
+  "bin": "index.js",
+  "homepage": "https://github.com/HoverBaum/http-status",
+  "bugs": "https://github.com/HoverBaum/http-status/issues",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoverBaum/http-status.git"
+  }
 }
