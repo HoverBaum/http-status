@@ -1,0 +1,14 @@
+{
+  "name": "http-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hendrik Wallbaum <mail@hendrikwallbaum.de>",
+  "dependencies": {
+    "commander": "^2.14.1"
+  },
+  "bin": "index.js"
+}
