@@ -1,5 +1,5 @@
 {
-  "name": "http-code",
+  "name": "@hoverbaum/http-code",
   "version": "1.0.0",
   "description": "A super simple CLI to look up the meaning of http status codes.",
   "main": "index.js",
