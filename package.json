@@ -3,9 +3,7 @@
   "version": "1.0.0",
   "description": "A super simple CLI to look up the meaning of http status codes.",
   "main": "index.js",
-  "scripts": {
-    
-  },
+  "scripts": {},
   "author": "Hendrik Wallbaum <mail@hendrikwallbaum.de>",
   "dependencies": {
     "commander": "^2.14.1"

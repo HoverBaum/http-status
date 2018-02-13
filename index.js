@@ -22,7 +22,7 @@ statusCode = parseInt(statusCode)
 const code = codes.find(code => code.number === statusCode)
 if (!code) {
   console.log('Could not find the code you are looking for.\nIf you think it should exist please consider opening an Issue.')
-  process.ecit(1)
+  process.exit(1)
 }
 
 console.log(`
