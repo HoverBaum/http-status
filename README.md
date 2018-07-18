@@ -1,4 +1,4 @@
-# HTTTP Codes
+# HTTP Codes
 
 A super simple CLI to look up the meaning of status codes.
 
